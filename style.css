@@ -1,0 +1,21 @@
+section{
+    background-color: antiquewhite;
+    color: rgb(85, 42, 165);
+    font-style: oblique;
+}
+.one{
+    background-color: rgb(117, 137, 131);
+    color: rgb(182, 50, 50);
+    font-style: italic;
+
+}
+.two{
+    background-color: rgb(143, 148, 121);
+    color: rgb(221, 67, 29);
+}
+h1.first{
+ font-style: normal;
+}
+h2.second{
+font-style: italic;
+}
